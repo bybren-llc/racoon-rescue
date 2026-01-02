@@ -1,4 +1,5 @@
 # RACOON RESCUE
+
 ## Beat Sheet and Scene Breakdown
 
 **Format:** Short Film (Dark Comedy)
@@ -35,23 +36,27 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 ## CHARACTER INTRODUCTIONS
 
 ### PETTY OFFICER FIRST CLASS DANNY VEGA (32)
+
 **First Appearance:** Scene 1
 **Introduction Beat:** Hunched over a bar, nursing his eighth whiskey, staring at a crumpled Dear John letter. His uniform is impeccable but his eyes tell a different story.
 **Character Essence:** A good man at the end of his rope. Not a villain, not an idiot - just a guy who made one bad choice that snowballed. The audience should wince at his decisions while understanding why he makes them.
 **Arc:** Denial -> Desperation -> False Victory -> Humiliation -> Resignation
 
 ### BANDIT (The Raccoon)
+
 **First Appearance:** Scene 3
 **Introduction Beat:** A pair of glowing eyes in the darkness. Then: a fat, confident raccoon emerges from a dumpster, completely unbothered by the world. He is king of this trash heap.
 **Character Essence:** An agent of chaos. Nature personified. He doesn't seek revenge - he simply IS. The raccoon represents everything Danny can't control.
 **Arc:** Unbothered -> Captured -> Unconscious -> VENGEANCE -> Unbothered
 
 ### HOMEOWNER (GERALD, 58)
+
 **First Appearance:** Scene 9
 **Introduction Beat:** Bathrobe, slippers, reading glasses still on. He stands at the edge of his destroyed backyard holding a phone, mouth open, trying to process the truck sinking in his pool.
 **Character Essence:** The innocent bystander. The normal world that Danny's chaos invades.
 
 ### NEWS ANCHOR (JESSICA CHEN, 35)
+
 **First Appearance:** Scene 10
 **Introduction Beat:** Professional veneer cracking as she reads the police blotter. She's seen a lot, but this is a new one.
 **Character Essence:** The Greek chorus. She represents the audience's reaction.
@@ -63,6 +68,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 ---
 
 ### SCENE 1: THE BAR
+
 **INT. DUSTY'S BAR - NIGHT**
 
 | Element | Details |
@@ -73,6 +79,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 | Purpose | Establish character, stakes, and emotional state |
 
 **STORY BEATS:**
+
 1. OPEN on a crumpled letter. We see fragments: "I can't wait anymore..." "...someone who's actually here..." "...I'm sorry, Danny."
 2. Pull back to reveal DANNY at the bar. Nearly empty. A BARTENDER wipes glasses.
 3. Danny orders "one more." The bartender hesitates, serves him anyway.
@@ -80,12 +87,14 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 5. He leaves cash, pockets the letter, and heads for the door.
 
 **KEY DIALOGUE:**
+
 - Bartender: "You got a ride, Chief?"
 - Danny: "I got a truck."
 - Bartender: "That's not what I asked."
 - Danny doesn't answer.
 
 **VISUAL NOTES:**
+
 - Warm but dingy lighting. Beer signs provide the only color.
 - Danny's uniform should be visible but not featured - he's Navy, but tonight he's just a man.
 - The letter should be visually prominent but never fully readable.
@@ -95,6 +104,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 ---
 
 ### SCENE 2: THE TRUCK (BREATHALYZER)
+
 **EXT. DUSTY'S PARKING LOT - CONTINUOUS**
 
 | Element | Details |
@@ -105,6 +115,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 | Purpose | Introduce the central problem |
 
 **STORY BEATS:**
+
 1. Danny crosses the gravel lot to his PICKUP TRUCK. It's seen better days.
 2. He fumbles with keys, drops them, picks them up. Clearly impaired.
 3. Climbs in. Keys in ignition. The ENGINE CRANKS but a DIGITAL BEEP stops him.
@@ -116,11 +127,13 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 9. He sits in defeated silence. Then - RUSTLING from the darkness.
 
 **KEY DIALOGUE:**
+
 - Danny (to himself): "Come on. Come on, come on, come on..."
 - Device: *BEEP* "SAMPLE REJECTED. PLEASE WAIT."
 - Danny: "I'm gonna die in this parking lot."
 
 **VISUAL NOTES:**
+
 - Sodium vapor lights casting orange glow
 - The breathalyzer device should look clinical, almost medical - a constant reminder of past mistakes
 - Danny's reflection in the rearview mirror - disappointed in himself
@@ -130,6 +143,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 ---
 
 ### SCENE 3: THE DISCOVERY
+
 **EXT. DUSTY'S PARKING LOT - DUMPSTER AREA - CONTINUOUS**
 
 | Element | Details |
@@ -140,6 +154,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 | Purpose | Introduce Bandit, plant the terrible idea |
 
 **STORY BEATS:**
+
 1. Danny exits the truck, follows the sound.
 2. Behind the bar: a commercial DUMPSTER. The lid is askew.
 3. Movement inside. Danny approaches cautiously.
@@ -152,11 +167,13 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 10. A terrible smile.
 
 **KEY DIALOGUE:**
+
 - Danny (quietly): "Hey there, buddy."
 - Bandit: *aggressive chewing*
 - Danny: "You're not drunk, are you?"
 
 **VISUAL NOTES:**
+
 - Raccoon eye-shine in the darkness - almost supernatural
 - The dumpster should feel like Bandit's kingdom
 - Danny's expression should shift from "what is that" to "wait a minute" to "oh no, this might work"
@@ -166,6 +183,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 ---
 
 ### SCENE 4: THE HUNT (PART ONE)
+
 **EXT. DUSTY'S PARKING LOT - CONTINUOUS**
 
 | Element | Details |
@@ -176,6 +194,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 | Purpose | Fun and Games - deliver on the premise's promise |
 
 **STORY BEATS:**
+
 1. Danny approaches the dumpster. The raccoon watches.
 2. Danny lunges. The raccoon DISAPPEARS.
 3. Danny climbs into the dumpster. Trash flies. No raccoon.
@@ -188,6 +207,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 10. Danny lies on the asphalt, breathing hard, looking at the stars.
 
 **ACTION SEQUENCE:**
+
 ```
 - Danny lunges LEFT, raccoon goes RIGHT
 - Danny corners raccoon by dumpster, raccoon runs BETWEEN HIS LEGS
@@ -198,6 +218,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 ```
 
 **VISUAL NOTES:**
+
 - Handheld camera, chaotic energy
 - Wide shots to show the full absurdity of a grown man chasing a raccoon
 - Sound design: Danny's heavy breathing, raccoon chitters, gravel crunching
@@ -207,6 +228,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 ---
 
 ### SCENE 5: THE HUNT (PART TWO - THE TRAP)
+
 **EXT. DUSTY'S PARKING LOT - CONTINUOUS**
 
 | Element | Details |
@@ -217,6 +239,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 | Purpose | Danny commits fully, Bandit is captured |
 
 **STORY BEATS:**
+
 1. Danny, still on the ground, spots a PIZZA BOX near the dumpster.
 2. He army-crawls to retrieve it. One slice left inside.
 3. He also grabs a BAR TOWEL from the ground (fallen earlier).
@@ -229,11 +252,13 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 10. He holds the wrapped raccoon at arm's length. Triumphant. Bleeding.
 
 **KEY DIALOGUE:**
+
 - Danny (to pizza box): "Nobody can resist cold pepperoni."
 - Danny (mid-pounce): "GOTCHA!"
 - Danny (looking at scratches): "Worth it. Totally worth it."
 
 **VISUAL NOTES:**
+
 - The trap sequence should be shot like an action movie - dramatic angles, slow-mo on the pounce
 - Danny's face when he realizes he's actually holding a wild raccoon - momentary terror
 - Blood visible on Danny's forearms - the raccoon got some licks in
@@ -243,6 +268,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 ---
 
 ### SCENE 6: THE BLOW (MIDPOINT)
+
 **INT. DANNY'S TRUCK - CONTINUOUS**
 
 | Element | Details |
@@ -253,6 +279,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 | Purpose | THE MIDPOINT - Everything changes |
 
 **STORY BEATS:**
+
 1. Danny slides into the truck, raccoon bundled in the towel.
 2. He holds Bandit with one hand, positions the breathalyzer tube with the other.
 3. The raccoon is NOT COOPERATING.
@@ -269,6 +296,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 14. He puts the truck in gear.
 
 **KEY DIALOGUE:**
+
 - Danny (struggling): "Hold still, you little--"
 - Danny (after squeeze): "Oh God. Oh no. I killed it. I killed a--"
 - Bandit: *wheeeeze*
@@ -276,6 +304,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 - Danny: "...holy shit."
 
 **VISUAL NOTES:**
+
 - CLOSE UPS: Danny's face, Bandit's face, the breathalyzer tube
 - The green light should feel HUGE - almost religious
 - The unconscious raccoon on the floorboard should be visible, ominous
@@ -285,6 +314,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 ---
 
 ### SCENE 7: THE DRIVE (FALSE VICTORY)
+
 **INT./EXT. DANNY'S TRUCK - MOVING - NIGHT**
 
 | Element | Details |
@@ -295,6 +325,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 | Purpose | Let Danny (and audience) breathe before chaos |
 
 **STORY BEATS:**
+
 1. Danny drives. Windows down. Night air sobering him slightly.
 2. He's on residential streets now. Nice houses. Quiet.
 3. He glances at the floorboard. The raccoon hasn't moved.
@@ -305,11 +336,13 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 8. PUSH IN on the raccoon. A paw TWITCHES.
 
 **KEY DIALOGUE:**
+
 - Danny (to himself): "Raccoon. A raccoon. I used a raccoon."
 - Danny (laughing): "They're never gonna believe this."
 - Danny: "I'm gonna be fine. I'm gonna be--"
 
 **VISUAL NOTES:**
+
 - Calm, steady shots - contrast to the chaos before and after
 - Danny's face in the rearview mirror - relief
 - VERY IMPORTANT: Show the raccoon on the floor. Show the twitch. Plant the bomb.
@@ -319,6 +352,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 ---
 
 ### SCENE 8: THE ATTACK (ALL IS LOST)
+
 **INT. DANNY'S TRUCK - MOVING - CONTINUOUS**
 
 | Element | Details |
@@ -329,6 +363,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 | Purpose | All Is Lost - Danny's plan collapses violently |
 
 **STORY BEATS:**
+
 1. Bandit's eyes SNAP open.
 2. For one moment, man and raccoon are both still. They lock eyes.
 3. Then: CHAOS.
@@ -342,6 +377,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 11. Danny can't see - raccoon is ON HIS FACE.
 
 **ACTION SEQUENCE:**
+
 ```
 - Raccoon bites Danny's ear - Danny releases steering wheel
 - Truck goes over curb, clips a garden gnome
@@ -352,6 +388,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 ```
 
 **VISUAL NOTES:**
+
 - HANDHELD, CHAOTIC, almost horror-movie energy
 - Raccoon POV shot - spinning, furious
 - Blood on the windshield (Danny's)
@@ -362,6 +399,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 ---
 
 ### SCENE 9: THE CRASH (FINALE)
+
 **EXT. HOMEOWNER'S BACKYARD - CONTINUOUS**
 
 | Element | Details |
@@ -372,6 +410,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 | Purpose | The physical climax - consequences made real |
 
 **STORY BEATS:**
+
 1. The truck EXPLODES through a white picket fence.
 2. SLOW MOTION: Fence posts flying, headlights cutting through the darkness.
 3. The pool - kidney-shaped, in-ground, beautifully lit - directly ahead.
@@ -388,6 +427,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 14. Danny, water up to his chest, has nothing to say.
 
 **KEY DIALOGUE:**
+
 - Danny (as truck hits water): "NO NO NO NO--"
 - Gerald: "What... what in the absolute..."
 - Danny: "I can explain."
@@ -396,6 +436,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 - Gerald: "There's a TRUCK."
 
 **VISUAL NOTES:**
+
 - The fence destruction in SLOW MOTION - beautiful and terrible
 - Underwater cinematography - the truck settling, bubbles rising, headlights dimming
 - Wide shot of the aftermath: the destruction is TOTAL
@@ -406,6 +447,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 ---
 
 ### SCENE 10: EPILOGUE - THE AFTERMATH
+
 **VARIOUS LOCATIONS - NEXT DAY**
 
 | Element | Details |
@@ -418,18 +460,21 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 **STRUCTURE:** Split-screen or quick-cut montage
 
 **BEAT 1: THE ARREST**
+
 - LOCATION: Homeowner's backyard, morning
 - Danny in handcuffs, soaking wet, wrapped in a shock blanket
 - TWO COPS struggle to keep straight faces
 - One cop reads charges: "DUI, reckless driving, destruction of property, and..." (checks notes) "...unlawful interference with wildlife."
 
 **BEAT 2: THE DUMPSTER**
+
 - LOCATION: Dusty's parking lot, morning
 - The dumpster. Peaceful.
 - Bandit emerges. Same spot as before.
 - He has a new pizza crust. He's fine. He's always been fine.
 
 **BEAT 3: THE INSURANCE CALL**
+
 - LOCATION: Gerald's kitchen
 - Gerald on the phone, rubbing his temples
 - INTERCUT with INSURANCE AGENT (V.O.)
@@ -438,6 +483,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 - Agent: "Sir, I'm going to need to transfer you."
 
 **BEAT 4: THE NEWS REPORT**
+
 - LOCATION: Local TV studio
 - JESSICA CHEN (35, professional) at the anchor desk
 - She reads from a teleprompter, face a mask of control
@@ -446,6 +492,7 @@ EPILOGUE (Coda):         Pages 13-14  (~1 minute)    --
 - She continues, barely: "...the raccoon remains at large."
 
 **FINAL IMAGE:**
+
 - Back to the dumpster. Night.
 - Bandit sits on the lid. King of his domain.
 - He stares INTO THE CAMERA.
@@ -479,15 +526,18 @@ Scene 10: SATISFACTION   - Justice, absurdity, closure
 ## TONAL GUIDANCE
 
 ### Overall Tone
+
 **Fargo** meets **Reno 911** with a touch of **A Simple Plan**. The humor emerges from the absurdity of the situation and the characters' matter-of-fact responses to escalating chaos.
 
 ### What We're NOT Doing
+
 - Winking at the camera
 - Mocking Danny (he does that to himself)
 - Cruelty toward the raccoon (Bandit wins in the end)
 - Slapstick without stakes
 
 ### What We ARE Doing
+
 - Playing it straight while the situation goes insane
 - Finding the humanity in terrible decisions
 - Letting silence and stillness amplify the chaos
@@ -516,6 +566,7 @@ Scene 10: SATISFACTION   - Justice, absurdity, closure
 ## STRUCTURAL VALIDATION
 
 ### Act One Validation (Pages 1-3)
+
 - [x] Opening image establishes tone (Danny alone at bar)
 - [x] Theme stated (consequences of desperation)
 - [x] Protagonist's ordinary world clear (military man, personal crisis)
@@ -524,6 +575,7 @@ Scene 10: SATISFACTION   - Justice, absurdity, closure
 - [x] Break into Two clear (decides to use raccoon)
 
 ### Act Two Validation (Pages 3-10)
+
 - [x] B story provides counterpoint (Bandit's perspective)
 - [x] Fun and Games delivers premise's promise (the chase/capture)
 - [x] Midpoint raises stakes (plan "works" - engine starts)
@@ -531,6 +583,7 @@ Scene 10: SATISFACTION   - Justice, absurdity, closure
 - [x] All Is Lost feels genuinely dire (raccoon attack while driving)
 
 ### Act Three Validation (Pages 10-14)
+
 - [x] Finale resolves main conflict (crash ends the night)
 - [x] Subplots resolved (Bandit escapes, homeowner gets story, Danny gets arrested)
 - [x] Final image contrasts opening (Danny alone and defeated vs. Bandit unbothered)
