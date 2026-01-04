@@ -1,0 +1,5 @@
+# IDE
+.vscode/
+
+# Large source materials (keep local only)
+sourcematerials/*.pdf
